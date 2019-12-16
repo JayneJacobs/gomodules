@@ -1,4 +1,4 @@
-package hello
+package createmodule
 
 import (
 	"github.com/stretchr/testify/assert"

@@ -1,4 +1,5 @@
-package helloupgrade
+package upgrademajor
+
 
 import (
 	"rsc.io/quote/v3"

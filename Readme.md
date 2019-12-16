@@ -48,3 +48,6 @@ adds to go.mod
 ```json
 gopkg.in/yaml.v2 v2.2.7 // indirect
 ```
+# Remove Unused Dependencies
+
+go mod tidy
