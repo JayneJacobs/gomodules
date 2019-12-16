@@ -24,7 +24,7 @@ major.minor.patch
 go list -m all
 
 ```sh
-PASML-335382:modules jjacob151$ go list -m all
+:modules $ go list -m all
 github.com/JayneJacobs/modules
 github.com/davecgh/go-spew v1.1.0
 github.com/pmezard/go-difflib v1.0.0
@@ -51,3 +51,4 @@ gopkg.in/yaml.v2 v2.2.7 // indirect
 # Remove Unused Dependencies
 
 go mod tidy
+
