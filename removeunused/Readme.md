@@ -1,3 +1,5 @@
+
+```sh
 $ go list -m all
 github.com/JayneJacobs/gomodules
 github.com/davecgh/go-spew v1.1.0
@@ -26,4 +28,4 @@ gopkg.in/yaml.v2 v2.2.2
 rsc.io/quote v1.5.2
 rsc.io/quote/v3 v3.1.0
 rsc.io/sampler v1.3.0
-PASML-335382:gomodules jjacob151$ 
+```
