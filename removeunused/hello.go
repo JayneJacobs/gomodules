@@ -7,4 +7,3 @@ import (
 func hello3() string {
 	return quote.Hello()
 }
-

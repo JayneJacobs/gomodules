@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Testgreeting(t *testing.T) {
+func Test_greeting(t *testing.T) {
 	greeting, err := greet("Joe")
 	assert.EqualValues(t, "", err)
 	assert.EqualValues(t, "hello: Joe", greeting)

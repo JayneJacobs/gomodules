@@ -1,12 +1,11 @@
 package removeunused
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
-func Testhello3(t *testing.T) {
+func Test_hello3(t *testing.T) {
 	greet := hello3()
-	assert.EqualValues(t, greet, "Hello")
+	assert.EqualValues(t, greet, "Hello, world.")
 }
